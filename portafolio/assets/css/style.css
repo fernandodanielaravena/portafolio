@@ -1,0 +1,78 @@
+body {
+  flex;
+font-family: 'Raleway', sans-serif;
+}
+header {
+background-image: url("../img/viaje.jpg");
+height: 500px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom;
+padding-bottom: 10rem;
+background-color: 0;
+}
+/* imagen con nombre */
+.hero-section {
+  background-image: url('../img/panama.jpg');
+  background-repeat: no-repeat;
+  color: #ffffff;
+  padding-top: 500px;
+  vertical-align: middle;
+}
+body {
+  text-align: center;
+}
+img {
+  width: 100%;
+  max-width: 400px;
+}
+.dosimagenes {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.material-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 120px;
+}
+body {
+  background-color: white;
+}
+.Trabajos {
+  background: #007bff
+}
+.primeralinea {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.primeralinea img {
+  max-width: 200px;
+  margin: 20px;
+}
+.segundalinea {
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+
+.Footer {
+  background: #007bff;
+  height: 200px;
+  }
+
+
+section h2 {
+    color: #777777;
+  }
+
+ h1 {
+   padding-top: 310px;
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    vertical-align: bottom;
+  }
